@@ -1,1 +1,1 @@
-# lab6-code-syntax.
+# lab6-code-syntax
